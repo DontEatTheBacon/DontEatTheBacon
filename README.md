@@ -1,5 +1,5 @@
 <h1>DontEatTheBacon</h1>
-<p>Hello.</p>
+<p>Andrew Valentine</p>
 
 <!---
 DontEatTheBacon/DontEatTheBacon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
